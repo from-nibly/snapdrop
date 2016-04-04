@@ -51,7 +51,6 @@ ShareDrop uses WebRTC only and isn't compatible with Safari Browsers. Snapdrop u
 * Install npm, bower, gulp and the dependencies as described [here](https://github.com/PolymerElements/polymer-starter-kit#install-dependencies)
     * `npm install & bower install`
 * run `gulp serve`
-* In a second shell run `node index.js`
 
 
 ## Licences
